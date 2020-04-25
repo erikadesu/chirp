@@ -6,7 +6,7 @@ defmodule Chirp.Timeline.Post do
     field :body, :string
     field :likes_count, :integer, default: 0
     field :reposts_count, :integer, default: 0
-    field :username, :string
+    field :username, :string, default: "user"
 
     timestamps()
   end
