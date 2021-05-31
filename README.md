@@ -1,7 +1,7 @@
 # Chirp
 
 
-*This is based on a Chris Mccord's tutorial to create a twitter clone app with LiveView and Phoenix 1.5*
+*Just trying to learn more about Phoenix LiveView. It's fascinating actually. This is based on a Chris Mccord's tutorial to create a twitter clone app with LiveView and Phoenix 1.5*
 
 To start your Phoenix server:
 
